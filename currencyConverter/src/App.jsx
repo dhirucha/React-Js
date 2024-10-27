@@ -32,7 +32,7 @@ function App() {
 
     return (
       <div
-          className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
+          className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat bg-center"
           style={{
               backgroundImage: `url('https://images.pexels.com/photos/462331/pexels-photo-462331.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1')`,
           }}
